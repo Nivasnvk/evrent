@@ -42,7 +42,7 @@ The introduction of an EV rental platform amplifies this impact by making electr
 reducing carbon emissions. It provides easy booking, secure payments, and access to nearby charging stations for a seamless rental experience.
 
 ### 2. Deploying the Website on GitHub
-- The frontend of **RENTO Website** was uploaded to a public GitHub repository: [Rento Website](https://github.com/Nivasnvk/evrento.git).
+- The frontend of **RENTO Website** was uploaded to a public GitHub repository: [Rento Website](https://github.com/Nivasnvk/evrent.git).
 
 ### 3. Azure Deployment Using ARM Templates
 - **Resource Group**: Created using Azure CLI to hold all the resources.
@@ -59,7 +59,7 @@ reducing carbon emissions. It provides easy booking, secure payments, and access
   #!/bin/bash
   sudo apt update
   sudo apt install nginx git -y
-  cd /tmp && git clone https://github.com/Nivasnvk/evrento.git mysitee
+  cd /tmp && git clone https://github.com/Nivasnvk/evrent.git mysitee
   sudo rm -rf /var/www/html/index.nginx-debian.html
   sudo cp -r /tmp/mysitee/* /var/www/html/
   ```
@@ -105,7 +105,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
 
 ## Live Website and Resources
 
-- **Website Link**: [RENTO Website](https://github.com/Nivasnvk/evrento.git)
+- **Website Link**: [RENTO Website](https://github.com/Nivasnvk/evrent.git)
 - **Project Video**: [Project Video](https://drive.google.com/file/d/1RyNTaPkZvLWLOdgI584FnFTLeZhatIZL/view?usp=drive_link)
 - **Screenshots**:
   **Created Resource Group Screenshot**
@@ -147,7 +147,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
 
 ## Conclusion
 
-This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the **Healthcare Services** platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
+This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the **RENTO Website** platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
 
 ## Author
 
