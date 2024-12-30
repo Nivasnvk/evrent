@@ -121,7 +121,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
   - ![vnet Screenshot](Screenshots/vnet.png)
 
   **Created Subnets Screenshot**
-  - ![subnet Screenshot](Screenshots/Subnet.png)
+  - ![subnet Screenshot](Screenshots/subnets.png)
 
    **Deployed VM 1 Screenshot**
   - ![vm1 Screenshot](./Screenshots/vm1.png)
@@ -130,7 +130,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
   - ![vm2 Screenshot](Screenshots/vm2.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![Loadbalancer Screenshot](Screenshots/Loadbalancer.png)
+  - ![Loadbalancer Screenshot](Screenshots/LoadbalancerSS.png)
 
   **Website Home Page Screenshot**
   - ![homepage Screenshot](Screenshots/homepage.jpeg)
