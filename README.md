@@ -109,7 +109,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
 - **Project Video**: [Project Video](https://drive.google.com/file/d/1RyNTaPkZvLWLOdgI584FnFTLeZhatIZL/view?usp=drive_link)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](Screenshots/resource_group.png)
+  - ![resourceGroup Screenshot](Screenshots/resource_group.png)
     
   **ResourceGroup Deployment Command Output**
   - ![RSG-Deployment-output Screenshot](ProjectScreenshots/RSG-Deployment-output.png)
@@ -118,30 +118,30 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
   - ![VNetDeploymentoutputSS Screenshot](ProjectScreenshots/VNetDeploymentoutputSS.png)
 
    **Created VNet Screenshot** 
-  - ![VNetSS Screenshot](Screenshots/vnet.png)
+  - ![vnet Screenshot](Screenshots/vnet.png)
 
   **Created Subnets Screenshot**
-  - ![SubnetSS Screenshot](Screenshots/SubnetSS.png)
+  - ![subnet Screenshot](Screenshots/Subnet.png)
 
    **Deployed VM 1 Screenshot**
-  - ![VM1SS Screenshot](./Screenshots/vm1.png)
+  - ![vm1 Screenshot](./Screenshots/vm1.png)
 
   **Deployed VM 2 Screenshot**
-  - ![VM2SS Screenshot](Screenshots/vm2.png)
+  - ![vm2 Screenshot](Screenshots/vm2.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![LoadbalancerSS Screenshot](Screenshots/Loadbalancer.png)
+  - ![Loadbalancer Screenshot](Screenshots/Loadbalancer.png)
 
   **Website Home Page Screenshot**
-  - ![Homepage Screenshot](Screenshots/homepage.png)
+  - ![homepage Screenshot](Screenshots/homepage.jpeg)
 
-  **Health Tracker Page after complete Deployment**
+  **Website Rent Page after complete Deployment**
   - ![Health TrackerPage ](Screenshots/rent_section.png)
 
-  **Fitness Regime Page after complete Deployment**
+  **pricing Page after complete Deployment**
   - ![Fitness Regime](Screenshots/pricing_section.png)
 
-  **Nutrition Planner  Page after complete Deployment**
+  **  Page after complete Deployment**
   - ![Nutrition Planner ](ProjectScreenshots/NutritionPlanner.png)
 
 
