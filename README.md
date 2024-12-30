@@ -109,7 +109,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
 - **Project Video**: [Project Video](https://drive.google.com/file/d/1RyNTaPkZvLWLOdgI584FnFTLeZhatIZL/view?usp=drive_link)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](ProjectScreenshots/ResourceGroupSS.png)
+  - ![ResourceGroup Screenshot](Screenshots/resource_group.png)
     
   **ResourceGroup Deployment Command Output**
   - ![RSG-Deployment-output Screenshot](ProjectScreenshots/RSG-Deployment-output.png)
@@ -118,28 +118,28 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
   - ![VNetDeploymentoutputSS Screenshot](ProjectScreenshots/VNetDeploymentoutputSS.png)
 
    **Created VNet Screenshot** 
-  - ![VNetSS Screenshot](ProjectScreenshots/SubnetSS.png)
+  - ![VNetSS Screenshot](Screenshots/vnet.png)
 
   **Created Subnets Screenshot**
-  - ![SubnetSS Screenshot](./ProjectScreenshots/SubnetSS.png)
+  - ![SubnetSS Screenshot](Screenshots/SubnetSS.png)
 
    **Deployed VM 1 Screenshot**
-  - ![VM1SS Screenshot](./ProjectScreenshots/VM1SS.png)
+  - ![VM1SS Screenshot](./Screenshots/vm1.png)
 
   **Deployed VM 2 Screenshot**
-  - ![VM2SS Screenshot](./ProjectScreenshots/VM2SS.png)
+  - ![VM2SS Screenshot](Screenshots/vm2.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![LoadbalancerSS Screenshot](./ProjectScreenshots/LoadbalancerSS.png)
+  - ![LoadbalancerSS Screenshot](Screenshots/Loadbalancer.png)
 
   **Website Home Page Screenshot**
-  - ![closet.AIHomepage Screenshot](ProjectScreenshots/HomePage.png)
+  - ![Homepage Screenshot](Screenshots/homepage.png)
 
   **Health Tracker Page after complete Deployment**
-  - ![Health TrackerPage ](ProjectScreenshots/Healthtracker.png)
+  - ![Health TrackerPage ](Screenshots/rent_section.png)
 
   **Fitness Regime Page after complete Deployment**
-  - ![Fitness Regime](ProjectScreenshots/FitnessRegime.png)
+  - ![Fitness Regime](Screenshots/pricing_section.png)
 
   **Nutrition Planner  Page after complete Deployment**
   - ![Nutrition Planner ](ProjectScreenshots/NutritionPlanner.png)
