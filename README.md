@@ -1,4 +1,4 @@
-# Deploying Static Website using Load Balancer by ARM Template
+# Deploying Static Website(using React JS) using Load Balancer by ARM Template
 
 ## Project Overview
 
@@ -112,10 +112,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
   - ![resourceGroup Screenshot](Screenshots/resource_group.png)
     
   **ResourceGroup Deployment Command Output**
-  - ![RSG-Deployment-output Screenshot](ProjectScreenshots/RSG-Deployment-output.png)
-
-  **VNet Subnets RSG ARM Template Output**
-  - ![VNetDeploymentoutputSS Screenshot](ProjectScreenshots/VNetDeploymentoutputSS.png)
+  - ![rg_Deployment-Screenshot](Screenshots/rg_deployment.png)
 
    **Created VNet Screenshot** 
   - ![vnet Screenshot](Screenshots/vnet.png)
@@ -132,6 +129,9 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
   **Deployed LoadBalancer Screenshot**
   - ![Loadbalancer Screenshot](Screenshots/LoadbalancerSS.png)
 
+   **Loadbalancer Insights Diagram**
+  - ![Loadbalancer insights Screenshot](Screenshots/LoadbalancerInsights.png)
+
   **Website Home Page Screenshot**
   - ![homepage Screenshot](Screenshots/homepage.jpeg)
 
@@ -140,9 +140,6 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
 
   **pricing Page after complete Deployment**
   - ![Fitness Regime](Screenshots/pricing_section.png)
-
-  **  Page after complete Deployment**
-  - ![Nutrition Planner ](ProjectScreenshots/NutritionPlanner.png)
 
 
 ## Conclusion
