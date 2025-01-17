@@ -106,7 +106,7 @@ The "Renting" section on an Electric Vehicle Rental Website simplifies the proce
 ## Live Website and Resources
 
 - **Website Link**: [RENTO Website](https://github.com/Nivasnvk/evrent.git)
-- **Project Video**: [Project Video](https://drive.google.com/file/d/1RyNTaPkZvLWLOdgI584FnFTLeZhatIZL/view?usp=drive_link)
+- **Project Video**: [Project Video](https://drive.google.com/file/d/1c6Jjzzygie9OfeO_PxW4oWnYTUJcnieD/view?pli=1)
 - **Screenshots**:
   **Created Resource Group Screenshot**
   - ![resourceGroup Screenshot](Screenshots/resource_group.png)
